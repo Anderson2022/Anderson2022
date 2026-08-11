@@ -1,16 +1,14 @@
 <div align="center">
 
-<img align="right" width="250" src="./assets/anderson-3d.png">
-
 # Olá! Eu sou o Anderson Silva 👋
 
 ### Desenvolvedor Java | Engenharia de Dados | SQL | Python
-
+<img align="right" width="210" src="./assets/anderson-3d.png">
 </div>
 
----
 
-## 👨‍💻 Sobre mim
+
+ 👨‍💻 Sobre mim
 
 Sou desenvolvedor com foco em Java e estou expandindo minha carreira para Engenharia de Dados.
 
@@ -21,26 +19,24 @@ Sou desenvolvedor com foco em Java e estou expandindo minha carreira para Engenh
 - 🗄️ SQL, Oracle e PostgreSQL
 - 🐍 Python para dados
 
+<br clear="right"/>
+
+
+
 ## 🚀 Tecnologias que eu uso no meu dia a dia
 
-<div style="display: inline_block"><br>
+<div align="center">
 
-<img align="center" alt="Java" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="Python" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<img align="center" alt="PostgreSQL" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-<img align="center" alt="Oracle" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Vue" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" alt="Vue"/>
 
 </div>
