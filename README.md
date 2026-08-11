@@ -1,7 +1,6 @@
 <div align="center">
 
-<img align="right" width="250"
-     src="https://raw.githubusercontent.com/Anderson2022/assets/main/anderson-3d.png">
+<img align="right" width="250" src="./assets/anderson-3d.png">
 
 # Olá! Eu sou o Anderson Silva 👋
 
